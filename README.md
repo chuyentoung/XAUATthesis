@@ -17,7 +17,8 @@ v1.0.0 Beta
 * 本版本为XAUATthesis v1.0.0 beta，可能存在`疏漏与错误`，有兴趣使用的同学发现问题请告知于我；或提出建议，笔者将不胜感激；
 * 本模板原则上按照[西安建筑科技大学2017级研究生手册](http://gs.xauat.edu.cn)中`《学位论文撰写标准》`一章进行编写，但是该章`缺乏维护`，许多详尽要求未给出，甚至存在过时要求，式样落后等；笔者在局部位置作了调整；
 * 未引入cleveref宏包，目前`CTeX`与`hyperref`、`cleveref `似乎还有不兼容之处，见[ctex, hyperref, cleveref 宏包冲突](https://gitmemory.com/issue/CTeX-org/ctex-kit/524/648526619)；
-* XAUATthesis在win 10系统，TeXlive 2020、MikTeX 20.6.29发行版可正常编译，在此感谢飘大王。
+* XAUATthesis在win 10系统，TeXlive 2020、MikTeX 20.6.29发行版可正常编译，在此感谢飘大王；
+* 《研究生手册》中文摘要页中的题目采用方正小标宋字体，我咨询了方正，对于高校学位论文方正字库的使用不需要授权，未安装的同学需要下载安装，不然会提示缺少字体。
 
 ## 使用说明
 * 本模板包含`XAUATthesis.cls`（模板文件），`XAUATthesis.cfg`（配置文件），`XAUATutils.sty`（引入宏包文件）及主文档`XAUATthesis.tex`;
